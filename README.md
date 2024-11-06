@@ -2,6 +2,9 @@
 
 # りんご収穫ゲーム
 
+## サイトURL
+https://dynamic-pie-0fcaad.netlify.app/
+
 ## 使用技術一覧
 <p style="display: inline">
   <img src="https://img.shields.io/badge/-javascript-000000.svg?logo=javascript&style=for-the-badge">
